@@ -1,6 +1,6 @@
 {
   "name": "xray-graph-output-stats-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript Client for XRAY/Graph Stats API",
   "author": "XRAY/Network <hello@xray.app>",
   "homepage": "https://xray.app",
